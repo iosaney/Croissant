@@ -1,7 +1,11 @@
 :root {
   --background-primary: #e4b381;
+  --background-body:#faecd4;
 }
 
+body{
+  background-color: var(--background-body);
+}
 .navigation {
   border: none;
   padding: 10px 15px;
